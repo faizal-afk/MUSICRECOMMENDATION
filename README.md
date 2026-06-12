@@ -83,11 +83,5 @@ python app.py
 http://127.0.0.1:5000
 
 
-Future Improvements
 
-* User authentication
-* Hybrid recommendation system
-* Real Spotify API integration
-* Improved recommendation accuracy
-* Larger music dataset
 
